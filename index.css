@@ -1,0 +1,48 @@
+
+header{
+ 
+   display: flex;
+  align-items: center;
+   justify-content: center;
+  
+  
+
+}
+ 
+.logo-img{
+  margin-right: 10px;
+  text-align: center;
+}
+.name p{
+   font-size: 60px;
+   font-weight: bold; 
+}
+.motto {
+   text-align: center;
+   font-size: larger;
+   font-family: fantasy;
+   margin-bottom: 30px;;
+   
+}
+
+ .flex-sm-column{
+    text-align: center;
+    font-size: 60px;
+    justify-content: center;
+    box-sizing: border-box;
+
+    
+ }
+ .nav-item{
+ 
+    text-align: center;
+    background-color:#2978cc;
+    color:white;
+    
+ }
+ .nav-item a{
+   color:white;
+ }
+ a:hover{
+   background-color: #f3c397;
+ }
